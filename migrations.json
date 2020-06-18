@@ -1,0 +1,7 @@
+{
+  "history": "migrations",
+  "directory": "migrations",
+  "models": [
+    "roles_api_mysql.models.role.Role"
+  ]
+}
